@@ -1,38 +1,30 @@
 {
-  "customer": [
-    {
-      "id": "jshd-dsds-sd-sdd-w-wdw",
-      "code": "36018189292",
-	  "email": "akak@gmail.com",
-	  "password": "$721dyywyw8717781777",
-	  "plain_pass": "ahay",
-	  "status": "web",
-	  "do_not_email": 0,
-	  "do_not_postmail": 0,
-	  "do_not_phone": 0,
-	  "channel_id": 1,
-	  "shop_id": 1,
-	  "shop_assistant_id": 1,
-	  "ab_check": "B=1C=1D=1",
-	  "campaign_code": "ahay"
-    },
-	{
-      "id": "dghs-dwgjw-wdjwhkd-dwh",
-      "code": "36018189291",
-	  "email": "aaa@gmail.com",
-	  "password": "$721daaayw8717781777",
-	  "plain_pass": "uhuy",
-	  "status": "potential",
-	  "do_not_email": 0,
-	  "do_not_postmail": 0,
-	  "do_not_phone": 0,
-	  "channel_id": 1,
-	  "shop_id": 1,
-	  "shop_assistant_id": 1,
-	  "ab_check": "B=1C=1D=1",
-	  "campaign_code": "cihuy"
-    }
-  ],
+  "customer": {
+	"data": [
+		{
+		  "id": "a74d7fe7-2ee2-43db-82d3-341cb4c3780b",
+		  "code": "36012938712",
+		  "email": "example@example.com",
+		  "name": "example",
+		  "status": "web"
+		}
+	  ],
+	  "meta": {
+		"current_page": 1,
+		"last_page": 1,
+		"per_page": 10,
+		"from": 1,
+		"to": 1,
+		"total": 0,
+		"path": "http://example.com"
+	  },
+	  "links": {
+		"first": "http://example.com",
+		"last": "http://example.com",
+		"prev": null,
+		"next": null
+	  }
+  }
   
   "profile": {
     "name": "typicode"
