@@ -1,0 +1,40 @@
+{
+  "customer": [
+    {
+      "id": "jshd-dsds-sd-sdd-w-wdw",
+      "code": "36018189292",
+	  "email": "akak@gmail.com",
+	  "password": "$721dyywyw8717781777",
+	  "plain_pass": "ahay",
+	  "status": "web",
+	  "do_not_email": 0,
+	  "do_not_postmail": 0,
+	  "do_not_phone": 0,
+	  "channel_id": 1,
+	  "shop_id": 1,
+	  "shop_assistant_id": 1,
+	  "ab_check": "B=1C=1D=1",
+	  "campaign_code": "ahay"
+    },
+	{
+      "id": "dghs-dwgjw-wdjwhkd-dwh",
+      "code": "36018189291",
+	  "email": "aaa@gmail.com",
+	  "password": "$721daaayw8717781777",
+	  "plain_pass": "uhuy",
+	  "status": "potential",
+	  "do_not_email": 0,
+	  "do_not_postmail": 0,
+	  "do_not_phone": 0,
+	  "channel_id": 1,
+	  "shop_id": 1,
+	  "shop_assistant_id": 1,
+	  "ab_check": "B=1C=1D=1",
+	  "campaign_code": "cihuy"
+    }
+  ],
+  
+  "profile": {
+    "name": "typicode"
+  }
+}
