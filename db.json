@@ -1,12 +1,33 @@
 {
-	"customer": {
-		"data": {
-			"id": "a74d7fe7-2ee2-43db-82d3-341cb4c3780b",
-			"code": "36012938712",
-			"email": "example@example.com",
-			"name": "example",
-			"status": "web"
+  "customer": {
+	"data": [
+		{
+		  "id": "a74d7fe7-2ee2-43db-82d3-341cb4c3780b",
+		  "code": "36012938712",
+		  "email": "example@example.com",
+		  "name": "example",
+		  "status": "web"
 		}
-	}
+	  ],
+	  "meta": {
+		"current_page": 1,
+		"last_page": 1,
+		"per_page": 10,
+		"from": 1,
+		"to": 1,
+		"total": 0,
+		"path": "http://example.com"
+	  },
+	  "links": {
+		"first": "http://example.com",
+		"last": "http://example.com",
+		"prev": null,
+		"next": null
+	  }
+  },
+  
+  "profile": {
+    "name": "typicode"
+  }
 }
 
