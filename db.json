@@ -1,10 +1,12 @@
 {
-	"data": {
-		"id": "a74d7fe7-2ee2-43db-82d3-341cb4c3780b",
-		"code": "36012938712",
-		"email": "example@example.com",
-		"name": "example",
-		"status": "web"
+	"customer": {
+		"data": {
+			"id": "a74d7fe7-2ee2-43db-82d3-341cb4c3780b",
+			"code": "36012938712",
+			"email": "example@example.com",
+			"name": "example",
+			"status": "web"
+		}
 	}
 }
 
