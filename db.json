@@ -2,39 +2,93 @@
   "customer": {
 	"data": [
 		{
-		  "id": "a74d7fe7-2ee2-43db-82d3-341cb4c3780b",
-		  "code": "36012938712",
-		  "email": "example@example.com",
-		  "name": "example",
-		  "status": "web"
+			"id": "a74d7fe7-2ee2-43db-82d3-341cb4c3780b",
+			"code": "36012938712",
+			"email": "example@example.com",
+			"name": "example",
+			"status": "web"
 		},
 		{
-		  "id": "a74d7fe7-2eaa2-43db-82d3-341cb4c3780b",
-		  "code": "36012938712",
-		  "email": "example@example.com",
-		  "name": "example",
-		  "status": "web"
+			"id": "a74d7fe7-2eaa2-43db-82d3-341cb4c3780b",
+			"code": "36012938712",
+			"email": "example@example.com",
+			"name": "example",
+			"status": "web"
 		}
 	  ],
 	  "meta": {
-		"current_page": 1,
-		"last_page": 1,
-		"per_page": 10,
-		"from": 1,
-		"to": 1,
-		"total": 0,
-		"path": "http://example.com"
+			"current_page": 1,
+			"last_page": 1,
+			"per_page": 10,
+			"from": 1,
+			"to": 1,
+			"total": 0,
+			"path": "http://example.com"
 	  },
 	  "links": {
-		"first": "http://example.com",
-		"last": "http://example.com",
-		"prev": null,
-		"next": null
-	  }
-  },
+			"first": "http://example.com",
+			"last": "http://example.com",
+			"prev": null,
+			"next": null
+		}
+	},
   
-  "profile": {
-    "name": "typicode"
-  }
+	"customer_post": {
+		{
+			"email": "example@example.com",
+			"password": "asdfsdfasdf",
+			"profile": {
+				"first_name": "tralaal",
+				"last_name": "alsjdhsd",
+				"phone1": "08123324234",
+				"gender": 2,
+				"phone2": "082342341212"
+			},
+			"channel_id": "7c3e1b0a-a37f-435d-a936-42bd4b8b1780",
+			"shop_id": "7c3e1b0a-a37f-435d-a936-42bd4b8b1780",
+			"shop_assistant_id": "7c3e1b0a-a37f-435d-a936-42bd4b8b1780",
+			"ab_check": "A=1B=2C=3",
+			"campaign_code": "spg",
+			"social_account": {
+				"provider": "facebook",
+				"provider_user_id": "1923617283687"
+			}
+		}
+	},
+	
+	"customer_detail": {
+		"data": {
+			"id": "7c3e1b0a-a37f-435d-a936-42bd4b8b1780",
+			"code": "36023897234",
+			"name": "tralala papa",
+			"email": "user@example.com",
+			"status": "web",
+			"profile": {
+				"id": "7c3e1b0a-a37f-435d-a936-42bd4b8b1780",
+				"first_name": "ian",
+				"middle_name": "asdfas",
+				"last_name": "qwioue",
+				"gender": 2,
+				"phone_prefix": "+62",
+				"phone1": "083234235235",
+				"phone2": "086234123412"
+			},
+			"social_account": {
+				"provider": "facebook",
+				"provider_user_id": "1923617283687"
+			},
+			"channel": {
+				"id": "7c3e1b0a-a37f-435d-a936-42bd4b8b1780",
+				"name": "shop"
+			},
+			"shop": {
+				"id": "7c3e1b0a-a37f-435d-a936-42bd4b8b1780",
+				"name": "Gramedia"
+			},
+			"shop_assistant_id": "7c3e1b0a-a37f-435d-a936-42bd4b8b1780",
+			"ab_check": "A=1B=2C=3",
+			"campaign_code": "spg"
+		}
+	}
 }
 
