@@ -34,25 +34,23 @@
 	},
   
 	"customer_post": {
-		{
-			"email": "example@example.com",
-			"password": "asdfsdfasdf",
-			"profile": {
-				"first_name": "tralaal",
-				"last_name": "alsjdhsd",
-				"phone1": "08123324234",
-				"gender": 2,
-				"phone2": "082342341212"
-			},
-			"channel_id": "7c3e1b0a-a37f-435d-a936-42bd4b8b1780",
-			"shop_id": "7c3e1b0a-a37f-435d-a936-42bd4b8b1780",
-			"shop_assistant_id": "7c3e1b0a-a37f-435d-a936-42bd4b8b1780",
-			"ab_check": "A=1B=2C=3",
-			"campaign_code": "spg",
-			"social_account": {
-				"provider": "facebook",
-				"provider_user_id": "1923617283687"
-			}
+		"email": "example@example.com",
+		"password": "asdfsdfasdf",
+		"profile": {
+			"first_name": "tralaal",
+			"last_name": "alsjdhsd",
+			"phone1": "08123324234",
+			"gender": 2,
+			"phone2": "082342341212"
+		},
+		"channel_id": "7c3e1b0a-a37f-435d-a936-42bd4b8b1780",
+		"shop_id": "7c3e1b0a-a37f-435d-a936-42bd4b8b1780",
+		"shop_assistant_id": "7c3e1b0a-a37f-435d-a936-42bd4b8b1780",
+		"ab_check": "A=1B=2C=3",
+		"campaign_code": "spg",
+		"social_account": {
+			"provider": "facebook",
+			"provider_user_id": "1923617283687"
 		}
 	},
 	
