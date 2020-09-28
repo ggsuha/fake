@@ -75,14 +75,8 @@
 				"provider": "facebook",
 				"provider_user_id": "1923617283687"
 			},
-			"channel": {
-				"id": "7c3e1b0a-a37f-435d-a936-42bd4b8b1780",
-				"name": "shop"
-			},
-			"shop": {
-				"id": "7c3e1b0a-a37f-435d-a936-42bd4b8b1780",
-				"name": "Gramedia"
-			},
+			"channel": "shop",
+			"shop": "Gramedia",
 			"shop_assistant_id": "7c3e1b0a-a37f-435d-a936-42bd4b8b1780",
 			"ab_check": "A=1B=2C=3",
 			"campaign_code": "spg"
