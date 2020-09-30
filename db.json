@@ -112,7 +112,7 @@
 		]
 	},
 	
-	"child_detail" {
+	"child_detail": {
 		"data": {
 			"id": "7c3e1b0a-a37f-435d-a936-42bd4b8b1780",
 			"first_name": "yutaka",
@@ -124,4 +124,3 @@
 		}
 	}
 }
-
