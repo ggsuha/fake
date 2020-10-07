@@ -116,7 +116,7 @@
 		"data": [
 			{
 				"code": "1",
-				"title": "Bali",
+				"name": "Bali",
 				"country_id": "1",
 				"id": "1",
 				"is_available": true,
@@ -124,7 +124,7 @@
 			},
 			{
 				"code": "1",
-				"title": "Bangka Belitung",
+				"name": "Bangka Belitung",
 				"country_id": "1",
 				"id": "1",
 				"is_available": true,
@@ -132,7 +132,7 @@
 			},
 			{
 				"code": "1",
-				"title": "Lampung",
+				"name": "Lampung",
 				"country_id": "1",
 				"id": "1",
 				"is_available": true,
@@ -140,7 +140,7 @@
 			},
 			{
 				"code": "1",
-				"title": "Ahay",
+				"name": "Ahay",
 				"country_id": "1",
 				"id": "1",
 				"is_available": true,
